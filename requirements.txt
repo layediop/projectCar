@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-Pillow
-numpy
-snowflake-connector-python
-h5py
